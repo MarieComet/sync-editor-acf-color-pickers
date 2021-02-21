@@ -1,13 +1,7 @@
 # Synchronize Editor and ACF Color Pickers 🎨
 
-Tags: acf, advanced custom fields, editor, gutenberg, color picker, color palette
-Contributors: chaton666
-License: GPLv2
-License URI: https://www.opensource.org/licenses/GPL-2.0
-Requires at least: 5.0
-Requires PHP: 5.6
-Tested up to: 7.4
-Stable Tag: 0.0.1
+![Plugin banner](https://mariecomet.fr/wp-content/uploads/2021/02/banner-1544x500-1.png)
+
 
 Allows you to automatically synchronize ACF color picker field with the editor color picker.
 
