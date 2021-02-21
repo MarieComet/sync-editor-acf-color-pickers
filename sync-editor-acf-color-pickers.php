@@ -24,9 +24,6 @@ if ( ! defined( 'SEACP_URL' ) ) {
 if ( ! defined( 'SEACP_PATH' ) ) {
     define( 'SEACP_PATH', plugin_dir_path( __FILE__ ) );
 }
-if ( ! defined( 'SEACP_VERSION' ) ) {
-    define( 'SEACP_VERSION', '0.0.1' );
-}
 
 /**
  * Register activation hook.
