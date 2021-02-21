@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Synchronize Editor and ACF Color Pickers
  * Plugin URI: https://github.com/MarieComet/sync-editor-acf-color-pickers
- * Description: This plugin synchronize the Advanced Custom Fields color picker field with the editor (gutenberg) color picker.
+ * Description: Synchronize Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
  * Author: Marie Comet
  * Author URI: https://profiles.wordpress.org/chaton666/
  * Version: 0.0.1

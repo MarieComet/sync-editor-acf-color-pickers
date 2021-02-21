@@ -9,11 +9,11 @@ Requires PHP: 5.6
 Tested up to: 5.7
 Stable Tag: 0.0.1
 
-Synchronize ACF color picker field with the editor color picker.
+Synchronize ACF color picker fields with the editor color pickers.
 
 == Description ==
 
-This plugin synchronize the Advanced Custom Fields color picker field with the editor (gutenberg) color picker.
+This plugin synchronize the Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
 
 It uses the color palette defined by the active theme in the `add_theme_support( 'editor-color-palette' )` declaration.
 

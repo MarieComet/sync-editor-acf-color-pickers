@@ -3,11 +3,11 @@
 ![Plugin banner](https://mariecomet.fr/wp-content/uploads/2021/02/banner-1544x500-1.png)
 
 
-Synchronize ACF color picker field with the editor color picker.
+Synchronize ACF color picker fields with the editor color pickers.
 
 ## Description
 
-This plugin synchronize the Advanced Custom Fields color picker field with the editor (gutenberg) color picker.
+Synchronize Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
 
 It uses the color palette defined by the active theme in the `add_theme_support( 'editor-color-palette' )` declaration.
 
