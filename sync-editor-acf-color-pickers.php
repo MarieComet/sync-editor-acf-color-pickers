@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/MarieComet/sync-editor-acf-color-pickers
  * Description: This plugin synchronize the Advanced Custom Fields color picker field with the editor (gutenberg) color picker.
  * Author: Marie Comet
- * Author URI: https://www.mariecomet.fr
+ * Author URI: https://profiles.wordpress.org/chaton666/
  * Version: 0.0.1
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html

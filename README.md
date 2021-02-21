@@ -3,7 +3,7 @@
 ![Plugin banner](https://mariecomet.fr/wp-content/uploads/2021/02/banner-1544x500-1.png)
 
 
-Allows you to automatically synchronize ACF color picker field with the editor color picker.
+Synchronize ACF color picker field with the editor color picker.
 
 ## Description
 
