@@ -15,7 +15,7 @@ Advanced Custom Fields plugin version 5.3.6 or higher is required.
 
 ## Changelog
 
-#### 0.0.1 / First release
+#### 1.0 / First release
 
 ## Installation
 

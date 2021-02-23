@@ -7,7 +7,7 @@ License URI: https://www.opensource.org/licenses/GPL-2.0
 Requires at least: 5.0
 Requires PHP: 5.6
 Tested up to: 5.7
-Stable Tag: 0.0.1
+Stable Tag: 1.0
 
 Synchronize ACF color picker fields with the editor color pickers.
 
@@ -21,7 +21,7 @@ Advanced Custom Fields plugin version 5.3.6 or higher is required.
 
 == Changelog ==
 
-= 0.0.1 / First release =
+= 1.0 / First release =
 
 == Installation ==
 

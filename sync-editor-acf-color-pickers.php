@@ -5,7 +5,7 @@
  * Description: Synchronize Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
  * Author: Marie Comet
  * Author URI: https://profiles.wordpress.org/chaton666/
- * Version: 0.0.1
+ * Version: 1.0
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
@@ -27,7 +27,7 @@ if ( ! defined( 'SEACP_PATH' ) ) {
 
 /**
  * Register activation hook.
- * @since 0.0.1
+ * @since 1.0
  */
 register_activation_hook( __FILE__, 'seacp_activation_hook' );
 function seacp_activation_hook() {
@@ -39,7 +39,7 @@ function seacp_activation_hook() {
 
 /**
  * Admin Notice on Activation.
- * @since 0.0.1
+ * @since 1.0
  */
 add_action( 'admin_notices', 'seacp_missing_notice' );
 function seacp_missing_notice(){
@@ -76,7 +76,7 @@ function seacp_missing_notice(){
 
 /**
  * Helper : transform colors array of key/value to values
- * @since 0.0.1
+ * @since 1.0
  */
 function seacp_get_theme_colors() {
 
@@ -99,7 +99,7 @@ function seacp_get_theme_colors() {
 
 /**
  * Load plugin functions on plugins loaded
- * @since 0.0.1
+ * @since 1.0
  */
 add_action( 'plugins_loaded', 'seacp_load' );
 function seacp_load() {
@@ -120,7 +120,7 @@ function seacp_load() {
 
 /**
  * Add theme color palette to ACF color picker
- * @since 0.0.1
+ * @since 1.0
  * Hooked on acf/input/admin_footer https://www.advancedcustomfields.com/resources/acf-input-admin_footer/
  */
 function seacp_acf_admin_footer() {
