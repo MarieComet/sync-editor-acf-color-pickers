@@ -5,6 +5,8 @@
 
 Synchronize ACF color picker fields with the editor color pickers.
 
+[Download on wordpress.org](https://wordpress.org/plugins/synchronize-editor-and-acf-color-pickers/advanced/)
+
 ## Description
 
 Synchronize Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
